@@ -1,2 +1,2 @@
 # Neon-Run
-Endless run 
+Endless run that makes you don't feel boring.
